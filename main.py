@@ -11,7 +11,7 @@ from socket import *
 
 sense = SenseHat()
 
-BROADCAST_TO_PORT = 7000
+BROADCAST_TO_PORT = 9031
 
 class promilleClass:
     Name = "null"
